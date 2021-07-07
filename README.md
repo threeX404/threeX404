@@ -2,7 +2,7 @@
 ![](https://i.hizliresim.com/9jhgbw6.png)
 
 
-Skills: REACT / JS / HTML / CSS / PHP / PYTHON / BOOTSRAP 
+Skills: JavaScript - Python - C# - HTML - CSS 
 
 - 🔭 I’m currently working on Hack 
 - 💬 Ask me about Web Hacking 
